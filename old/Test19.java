@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.old;
 
 /**
  * @Author 97683
